@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="student1_name">Forough Jafari</string>
+    <string name="student2_name">Mehrnoosh Mirtaheri</string>
+    <string name="student1_id">90105442</string>
+    <string name="student2_id">90106171</string>
+    <string name="app_name">HW3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="start">Start!</string>
+    <string name="homwork_number">Homework 3!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

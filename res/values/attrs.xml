@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonLoopView" >
+        <attr name="arcColor" format="color" />
+        <attr name="count" format="integer" />
+        <attr name="thickness" format="integer"/>
+        <attr name="android:id" />
+        <attr name="fontSize" format="float"/>
+        <attr name="fontColor" format="color" />
+        <attr name="names" format="reference" />
+        <attr name="angles" format="reference" />
+        <attr name="value" format="float" />
+        <attr name="circleColor" format="color" />
+        <attr name="fullColor" format="color" />
+        <attr name="circleWidth" format="integer" />
+    </declare-styleable>
+    
+    <declare-styleable name="DrawerViewGroup">
+        <attr name="animateOnClick" format="boolean" />
+        <attr name="allowSingleTap" format="boolean" />
+        <attr name="topOffset" format="dimension" />
+        <attr name="bottomOffset" format="dimension" />
+        <attr name="orientation" />
+        <attr name="handle" format="reference" />
+        <attr name="content" format="reference" />
+        <attr name="zoomIn" format="reference" />
+        <attr name="zoomOut" format="reference" />
+    </declare-styleable>
+
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    
+</resources>
+
